@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @crusader31
+- 👋 Hi, I’m Mohana Mythresh Vaishnav M R 
 - 👀 I’m interested in data
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me 
+- 🌱 I’m currently learning data science and data analysis
+- 💞️ I’m looking to collaborate on data science and analytics projects
+- 📫 How to reach me mohanmythreshvaishnav@gmail.com
 
 <!---
 crusader31/crusader31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
